@@ -1,7 +1,7 @@
 # django_vue_template
 
 > Simple Integrated Django (backend), Vue.js (frontend) Web Application Configured for Heroku Deployment
-> Accompanying blog post can be found [here](insert link)
+> Accompanying blog post can be found [here](http://www.bbc.com/)
 
 
 ## Build Setup
