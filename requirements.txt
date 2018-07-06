@@ -1,0 +1,6 @@
+certifi==2018.4.16
+Django==2.0.7
+django-cors-headers==2.3.0
+gunicorn==19.9.0
+pytz==2018.5
+whitenoise==3.3.1
