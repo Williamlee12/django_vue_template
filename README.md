@@ -1,6 +1,8 @@
 # django_vue_template
 
-> A Vue.js project
+> Simple Integrated Django (backend), Vue.js (frontend) Web Application Configured for Heroku Deployment
+> Accompanying blog post can be found [here](insert link)
+
 
 ## Build Setup
 
@@ -8,14 +10,10 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# install Python dependencies
+pip install -r requirements.txt
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+You will need to adjust the SECRET_KEY in the /.env file to something a little more secure
